@@ -1,5 +1,5 @@
+![image1 2](https://github.com/JordyHers-org/ModePaz-s/assets/49708438/aab311e8-3c0e-493d-bce0-dbaad8b8056b)
 
-![Wardiere](https://github.com/JordyHers/ModePaz-s/assets/49708438/3f3f82b1-b4d7-4548-a2a2-c0c6f5469491)
 
 
 
@@ -69,20 +69,22 @@ ModePaz is a robust password manager application designed for both iOS and Andro
 
 ## Screenshots
 
-### Intro Flow
-![Intro Flow](path/to/intro_flow_screenshot.png)
-
 ### Home Screen Pages
-![Home Screen](path/to/home_screen_screenshot.png)
+<img src="https://github.com/JordyHers-org/ModePaz-s/assets/49708438/d48b2c7c-5c81-416c-ac25-f3537504d62c" width="312">
 
 ### Password Detail Page
-![Password Detail Page](path/to/password_detail_screenshot.png)
+<img src="https://github.com/JordyHers-org/ModePaz-s/assets/49708438/e7a9c073-45e5-4ae6-8282-c3d81f123169" width="312">
 
 ### Merge Password Flow
-![Merge Password Flow](path/to/merge_password_screenshot.png)
+<img src="https://github.com/JordyHers-org/ModePaz-s/assets/49708438/56c7f5f9-93bf-4b80-952b-4c642ed98b2c" width="312">
+
+### Settings
+<img src="https://github.com/JordyHers-org/ModePaz-s/assets/49708438/1091e0f1-3a0a-40b4-8467-5a0a334e81d1" width="312">
 
 ### Add/Edit/Delete Password Flow
-![Add/Edit/Delete Password](path/to/add_edit_delete_screenshot.png)
+<img src="https://github.com/JordyHers-org/ModePaz-s/assets/49708438/9c6a62f1-26e9-4c14-9bf9-0e3404cda04b" width="312">
+
+
 
 
 
@@ -93,8 +95,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Contact
 
 If you have any questions, feel free to reach out to us at [your-email@example.com].
-
----
-
-This README now includes a detailed description, an expanded list of features, installation steps, usage instructions, a screenshots section, contribution guidelines, license information, and contact details. Make sure to replace the placeholder paths with actual paths to your screenshot images.
-
