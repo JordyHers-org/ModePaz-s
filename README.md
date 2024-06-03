@@ -3,8 +3,6 @@
 
 
 
-<img src="https://github.com/JordyHers/ModePaz-s/assets/49708438/790e0ce4-df30-4555-b0b6-6c729f07e898" width="131">
-<img src="https://github.com/JordyHers/ModePaz-s/assets/49708438/e2519794-56e7-4600-8f49-3c273ad42860" width="142">
 
 # ModePaz-s
 
